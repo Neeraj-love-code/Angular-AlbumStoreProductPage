@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Album } from 'album.interface';
+import { Album } from '../album';
+
 import { ProductService } from '../product.service';
 
 
